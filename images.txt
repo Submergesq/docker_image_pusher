@@ -9,4 +9,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:5.7
 #calico/cni:2.25
-calico/cni:v3.25.1
+#calico/cni:v3.25.1
+neko
