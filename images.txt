@@ -11,4 +11,5 @@
 #calico/cni:2.25
 #calico/cni:v3.25.1
 #neko
-docker
+#docker
+tomcat:8
