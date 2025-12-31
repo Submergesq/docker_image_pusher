@@ -7,4 +7,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:5.7
+#mysql:5.7
+calico/cni:2.25
