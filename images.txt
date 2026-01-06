@@ -13,10 +13,10 @@
 #neko
 #docker
 #tomcat:8
-grafana/grafana
-prom/prometheus
-gcr.io/cadvisor/cadvisor
-prom/alertmanager
-prom/node-exporter
-nginx/nginx-prometheus-exporter
-
+#grafana/grafana
+#prom/prometheus
+#gcr.io/cadvisor/cadvisor
+#prom/alertmanager
+#prom/node-exporter
+#nginx/nginx-prometheus-exporter
+calico/cni:v3.25.0
