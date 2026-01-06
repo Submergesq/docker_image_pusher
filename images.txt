@@ -19,4 +19,5 @@
 #prom/alertmanager
 #prom/node-exporter
 #nginx/nginx-prometheus-exporter
-calico/cni:v3.25.0
+#calico/cni:v3.25.0
+calico/node:v3.25.0
