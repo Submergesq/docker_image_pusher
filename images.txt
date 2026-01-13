@@ -22,4 +22,4 @@
 #calico/cni:v3.25.0
 #calico/node:v3.25.0
 #calico/kube-controllers:v3.25.0
-halo/halo:2.10
+halo/halo:2.22.8
